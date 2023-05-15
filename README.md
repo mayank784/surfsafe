@@ -30,7 +30,7 @@ To run the application on your system, follow these steps:
 1. Clone the repository: 
 
 ```shell
-git clone https://github.com/incogGod/SafeSurf.git
+https://github.com/mayank784/surfsafe.git
 cd SafeSurf
 ```
 
