@@ -18,8 +18,6 @@ These are the features provided by SafeSurf to its users.
 
 ## Demo
 
-https://safesurf.vercel.app
-
 <img src="static/safesurf-screenshot.png"  width="350" height="175">
 <br>
 
