@@ -84,16 +84,11 @@ git push origin my-feature-branch
 
 <!-- Before beginning to work on the feature, please [create an issue](https://github.com/incogGod/SafeSurf/issues) and get assigned. -->
 
-## Feedback
-
-If you have any feedback or suggestions, please reach out at https://incoggod.com/contact/ or start a discussion on [SafeSurf Discussions](https://github.com/incogGod/SafeSurf/discussions).
-
-Any input is highly appreciated.
 
 
 <!-- ## Authors
 
-- [@incogGod](https://www.github.com/incogGod) -->
+- [@incogGod](https://www.github.com/mayank784) -->
 
 
 
